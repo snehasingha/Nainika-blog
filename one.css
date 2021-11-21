@@ -1,0 +1,55 @@
+.movie_head {
+    font-size: 20px;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movietext span {
+    color: darkorange
+}
+
+a {
+    text-decoration: underline;
+}
+
+.contact1 h3 {
+    display: inline;
+}
+
+#contact {
+    background: aliceblue;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact1 a {
+    text-shadow: 2px 2px lightgreen;
+}
+.environmentli
+{
+  margin-top: 13px;
+}
+
+.environmentli h4
+{
+    border-bottom: 3px solid white;
+    padding: 8px;
+}
+
+.environmentli img
+{
+  border-radius: 25px;
+}
+
+.environmentli p
+{
+  margin-top:10px;
+}
